@@ -1,0 +1,4 @@
+#Thu Oct 24 22:29:03 AEDT 2019
+base.0=C\:\\Users\\Sina\\Desktop\\RssReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
